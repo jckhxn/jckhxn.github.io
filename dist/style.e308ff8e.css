@@ -5,7 +5,7 @@
 }
 @font-face {
   font-family: dosFont;
-  src: url(font.ttf);
+  src: url(/font.e4c351c0.ttf);
 }
 body {
   font-family: dosFont;
@@ -33,3 +33,5 @@ margin-left: 1.5em;
 .twitter {
   margin-left: 3.0em;
 }
+
+/*# sourceMappingURL=/style.e308ff8e.css.map */
