@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+@font-face {
+    font-family: dosFont;
+    src: url(font.ttf);
+  }
+body 
+{   font-family: dosFont;
+    color: white;
+
+    background-color: rgb(35, 35, 35);
+}
+.text 
+{
+
+    font-size: 4rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: chartreuse;
+}
+h3 {
+    font-size: 2rem;
+    position: absolute;
+   color: wheat;
+}
