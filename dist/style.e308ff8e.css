@@ -7,7 +7,7 @@
 }
 @font-face {
   font-family: dosFont;
-  src: url(font.ttf);
+  src: url(/font.e4c351c0.ttf);
 }
 canvas {
   height: 100vh;
@@ -56,3 +56,5 @@ a {
   99%{    color:transparent;  }
   100%{   color: red;    }
 }
+
+/*# sourceMappingURL=/style.e308ff8e.css.map */

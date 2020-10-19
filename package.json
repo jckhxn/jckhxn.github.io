@@ -1,0 +1,23 @@
+{
+  "name": "mysite",
+  "version": "1.0.0",
+  "description": "Hi there 👋 My name is Jack Hixon. I like to make websites, often times in React with fun APIs I dream up 😀 I like to poke around, see how things work, and teach about them when I can.",
+  "main": "code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jckhxn/jckhxn.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jckhxn/jckhxn.github.io/issues"
+  },
+  "homepage": "https://github.com/jckhxn/jckhxn.github.io#readme",
+  "dependencies": {
+    "confetti-js": "0.0.18"
+  },
+  "devDependencies": {}
+}
