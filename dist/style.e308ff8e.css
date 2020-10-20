@@ -20,6 +20,14 @@ body {
 
   background-color: rgb(35, 35, 35);
 }
+img {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  left: 50%;
+  top: 80%;
+  width: 25%;
+  height:25%;
+}
 .text {
   font-size: 5.5rem;
   position: absolute;
@@ -46,15 +54,26 @@ a {
   margin-left: 3em;
 }
 
-.blinking{
-  animation:blinkingText 1.2s infinite;
+.blinking {
+  animation: blinkingText 1.2s infinite;
 }
-@keyframes blinkingText{
-  0%{     color: red;    }
-  49%{    color: red; }
-  60%{    color: transparent; }
-  99%{    color:transparent;  }
-  100%{   color: red;    }
+@keyframes blinkingText {
+  0% {
+    color: red;
+  }
+  49% {
+    color: red;
+  }
+  60% {
+    color: transparent;
+  }
+  99% {
+    color: transparent;
+  }
+  100% {
+    color: red;
+  }
 }
+
 
 /*# sourceMappingURL=/style.e308ff8e.css.map */
